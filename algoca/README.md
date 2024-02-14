@@ -1,0 +1,14 @@
+### Data structures and algorithms in C++
+- `graph`: 
+    - Vertex degree
+    - Dijkstra algorithm for finding the shortest paths from the given vertex
+    - Euler cycle finding (through all the edges)
+    - Floyd algorithm for finding the shortest paths from every vertex to each other
+    - Hamilton cycle finding (through all the vertices)
+    - Breads-, Depth-First Search (latter in both recursive and iterative forms)
+- Binary search for finding element occurence, it's lower and upper bound in sorted array
+- Disjoint Set Union
+- Fenwick tree
+- Segment tree
+- Sequential algorithms for finding cycle in linked list or functional sequence (Floyd, Brent)
+- Strings algorithms for finding substring occurence in string (prefix function, z-function), for palindromic substrings finding (Manacker)
